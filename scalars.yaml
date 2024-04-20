@@ -1,0 +1,17 @@
+name: yugesh
+language: "Java"
+street: "320 Dubuque St"
+major-version: 2
+minor-version: 0.5
+some-hex: 0x12d6 #evaluates to 4822
+some-octal: 024432 #evaluates to 10522
+goodDay: true
+badday: False
+niceWeekend: YES
+boringWeekedn: No
+posititve-infinity: .inf #evaluates to infinity
+negative-infinity: -.Inf #evaluates to negative infinity
+invalidNumber: .NAN #not a number
+null-values: null
+null-value-again: ~
+null-value-just:
