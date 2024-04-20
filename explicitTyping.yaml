@@ -1,0 +1,19 @@
+#string
+name: !!str Lionel Messi
+some other name: !!str Good One
+# integer
+negative: !!int -16
+zero: !!int 0
+bigger: !!int 908
+#Float
+float-value: !!float 89.90990
+
+#boolean
+areYouOk: !!bool True
+areYouNOtOk: !!bool false
+
+#date
+randdate: !!timestamp 2002-12-12
+
+#null
+null-val: !!null null
