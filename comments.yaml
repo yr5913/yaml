@@ -1,0 +1,9 @@
+# mention name
+name: Yugesh
+# this
+# is a
+# multi line comment
+hobbies:
+  - Playing fifa # I also play other games
+  - learning new tech
+age: 9999
